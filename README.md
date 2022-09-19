@@ -26,6 +26,6 @@ Kata from https://www.codewars.com/kata/escape-the-mines
 >     // Should return ['right', 'down']
 > ```
 
-##Disclaimer
+## Disclaimer
 
 This is just for learning purposes, there are some incorrect approaches that are explicitly there for the aim of learning some specific concepts before moving to a more advanced topics
